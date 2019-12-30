@@ -1,6 +1,6 @@
 {
 	"api": {
-		"appSyncApi": {
+		"reactAppSyncApi": {
 			"service": "AppSync",
 			"providerPlugin": "awscloudformation",
 			"output": {
@@ -9,8 +9,8 @@
 					"defaultAuthentication": {
 						"authenticationType": "API_KEY",
 						"apiKeyConfig": {
-							"description": "appsync api key for react",
-							"apiKeyExpirationDays": "180"
+							"description": "",
+							"apiKeyExpirationDays": "365"
 						}
 					}
 				}

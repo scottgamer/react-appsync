@@ -1,15 +1,15 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-react-appsync-dev-00442-authRole",
-            "UnauthRoleArn": "arn:aws:iam::817439561489:role/amplify-react-appsync-dev-00442-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::817439561489:role/amplify-react-appsync-dev-00442-authRole",
+            "AuthRoleName": "amplify-react-appsync-dev-183635-authRole",
+            "UnauthRoleArn": "arn:aws:iam::817439561489:role/amplify-react-appsync-dev-183635-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::817439561489:role/amplify-react-appsync-dev-183635-authRole",
             "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-react-appsync-dev-00442-deployment",
-            "UnauthRoleName": "amplify-react-appsync-dev-00442-unauthRole",
-            "StackName": "amplify-react-appsync-dev-00442",
-            "StackId": "arn:aws:cloudformation:us-east-1:817439561489:stack/amplify-react-appsync-dev-00442/e75642e0-260a-11ea-9a35-126c97cb5bc1",
-            "AmplifyAppId": "d1bbedqtclinx0"
+            "DeploymentBucketName": "amplify-react-appsync-dev-183635-deployment",
+            "UnauthRoleName": "amplify-react-appsync-dev-183635-unauthRole",
+            "StackName": "amplify-react-appsync-dev-183635",
+            "StackId": "arn:aws:cloudformation:us-east-1:817439561489:stack/amplify-react-appsync-dev-183635/0e1b2d90-2a94-11ea-ae0b-0e763951b664",
+            "AmplifyAppId": "dfftp7wnsdyx7"
         }
     }
 }
